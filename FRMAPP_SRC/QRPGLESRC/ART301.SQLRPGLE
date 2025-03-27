@@ -3,7 +3,7 @@
       *%EMETADATA                                                                         *
      h nomain
 
-     Fart301d   CF   E             WORKSTN
+     Fart301   CF   E             WORKSTN
      F                                     INFDS(INFO)
      F                                     SFILE(SFL01:RRN01)
      F                                     indds(indds)
